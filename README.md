@@ -8,7 +8,7 @@
     </ul>
     
   <h2 id='sobre'>💬 Sobre</h2>
-  <p></p>
+  <p>Projeto desenvolvido na semana do Ignite Lab, projeto este que foi lesionado pelo educator da Rocketseat Rodrigo Gonçalves, no mês de julho de 2022. A aplicação desenvolvida neste período foi realizada em React Native utilizando o expo e para o banco de dados foi utilizado o Firebase.</p>
   
   <h2 id='galeria'>🖼 Galeria</h2>
   <h4>Página de Login</h4>
